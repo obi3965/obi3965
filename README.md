@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/front_end/hero_image-22813726def3da7ae43732aa40d92b8e2b10c1fdc67f80c4be5973393eba5f71.svg" height="375px"/></a>
 
 <h1 align="center">Hi <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftriplebyte.com%2Fcompany%2Four-talent%2Ffront-end-developer&psig=AOvVaw0HTF2kytL1MiIHLIS54o_z&ust=1647335409402000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi1zOqgxfYCFQAAAAAdAAAAABAD" width="30px">, I'm obaidullah</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
